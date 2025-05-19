@@ -2,7 +2,7 @@
 
 # 🛒 E-Commerce Database Management Project
 
-![Project Banner](e-commerceproject.jpg)
+![Project Banner](https://github.com/Yash-Yennewar/SQL_E-Commerce-Database-Project/blob/main/Code_outputs/e-commerceproject.jpg)
 
 ## 📌 Project Overview
 
@@ -88,7 +88,7 @@ This project is developed using MySQL and focuses on creating a robust database 
 ![Q9](https://github.com/Yash-Yennewar/SQL_E-Commerce-Database-Project/blob/main/Code_outputs/Q9.png)
 
 ### Q10: Display customers with their total spending.
-![Q10](https://github.com/Yash-Yennewar/SQL_E-Commerce-Database-Project/blob/main/Code_outputs/.Q10png)
+![Q10](https://github.com/Yash-Yennewar/SQL_E-Commerce-Database-Project/blob/main/Code_outputs/Q10.png)
 
 ### Q11: Display customers who spends more than 25000.
 ![Q11](https://github.com/Yash-Yennewar/SQL_E-Commerce-Database-Project/blob/main/Code_outputs/Q11.png)
